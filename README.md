@@ -122,7 +122,7 @@ Pour tester l'application, créez un compte en utilisant le formulaire d'inscrip
    git init
    git add .
    git commit -m "Initial commit"
-   git remote add origin https://github.com/YOUR_USERNAME/agency-dashboard.git
+   git remote add origin [https://github.com/YOUR_USERNAME/agency-dashboard.git](https://github.com/BEN-OSSAMA/task-intenship.git)
    git push -u origin main
    \`\`\`
 
