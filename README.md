@@ -9,15 +9,16 @@ A modern, interactive Next.js 16 dashboard application with Clerk authentication
 
 ## 🌐 Live Demo
 
-**🔗 Application Live:** [https://agency-dashboard.vercel.app](https://agency-dashboard.vercel.app) *(À remplacer par votre URL Vercel)*
+**🔗 Application Live:** [https://your-app.vercel.app](https://your-app.vercel.app)  
+*(Remplacez par votre URL Vercel après déploiement)*
 
 ### 🧪 Compte de Test / Demo
 
-Pour tester l'application, vous pouvez créer un compte en utilisant le formulaire d'inscription, ou utiliser ces identifiants de test :
+Pour tester l'application, créez un compte en utilisant le formulaire d'inscription sur la page d'accueil, ou utilisez ces identifiants de test :
 
 - **Email:** `demo@agencyhub.com`
 - **Mot de passe:** `Demo@2024`
-- *(Ces identifiants doivent être créés dans votre instance Clerk)*
+- *(Ces identifiants doivent être créés dans votre instance Clerk - voir [DEMO_ACCOUNT.md](./DEMO_ACCOUNT.md))*
 
 ## ✨ Features
 
@@ -363,8 +364,8 @@ MIT License - feel free to use this project for your portfolio or learning purpo
 
 **Oussama Ben Kacem**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/BEN-OSSAMA)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/oussama-ben-kacem/)
 
 ## 🙏 Acknowledgments
 
